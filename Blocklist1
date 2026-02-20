@@ -26,3 +26,16 @@ peso.dsp.youappi.com
 api.youngle.site
 tk.mosspf.net
 conviva.com
+# Temu Main Shopping Domains
+temu.com
+www.temu.com
+temu.com.hk
+# Temu Content Delivery & Assets (Images/Scripts)
+kwcdn.com
+*.kwcdn.com
+temu.com.edgesuite.net
+# Temu Tracking, Analytics & Telemetry
+analytics.temu.com
+log.temu.com
+api.temu.com
+promoted.temu.com
