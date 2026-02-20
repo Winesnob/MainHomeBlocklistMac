@@ -1,9 +1,27 @@
-lh3.googleusercontent.com
-play.googleapis.com
-play-apps-features.googleusercontent.com
-voledevice-pa.googleapis.com
-rr1---sn-bvvbaxivnuxqjvm-vg4e.gvt1.com
-www.googleapis.com
-www.canva.com
-static.canva.com
 deepai.org
+
+# Main Website and App Access
+canva.com
+www.canva.com
+canvamobile.com
+
+# Content Management & User Uploads
+content-management-files.canva.com
+canva-user-content.com
+
+# Static Assets, Scripts, and UI Elements
+static.canva.com
+pwa.canva.com
+canvas-user-content.com
+
+# Editor APIs and Backend Services
+api.canva.com
+backend.canva.com
+realtime.canva.com
+
+# Canva Websites & Published Content
+my.canva.site
+canva.site
+
+# Tracking and Analytics
+analytics.canva.com
