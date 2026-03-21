@@ -33,22 +33,18 @@ media.megaphonetv.com
 nexus.megaphonetv.com
 nexus-static.megaphonetv.com
 mega.page
-
 # Temu Main Shopping Domains
 temu.com
 www.temu.com
 temu.com.hk
-
 # Temu Content Delivery & Assets (Images/Scripts)
 kwcdn.com
 temu.com.edgesuite.net
-
 # Temu Tracking, Analytics & Telemetry
 analytics.temu.com
 log.temu.com
 api.temu.com
 promoted.temu.com
-
 # Web-based games
 crazygames.com
 poki.com
