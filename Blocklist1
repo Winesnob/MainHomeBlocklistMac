@@ -157,6 +157,7 @@ www.crazygames.com
 ||crazygames-static.com^
 ||ea.com^
 ||origin.com^
+# DNS blocks
 ||dns.google^
 ||cloudflare-dns.com^
 ||mozilla.cloudflare-dns.com^
