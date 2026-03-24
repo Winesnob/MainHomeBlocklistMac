@@ -5,7 +5,7 @@ edge.myqnapcloud.io
 storage.myqnapcloud.io
 org.myqnapcloud.io
 analytics.myqnapcloud.io
-connector.myqnapcloud.com
+# connector.myqnapcloud.com -HBS3 uses to connect other cloud devices
 auth.api.myqnapcloud.cn
 core2.api.myqnapcloud.cn
 edge.api.myqnapcloud.cn
@@ -32,6 +32,8 @@ ifttt.myqnapcloud.io
 dauth.myqnapcloud.io
 ifttt.api.myqnapcloud.cn
 dauth.api.myqnapcloud.cn
+machomeserver.myqnapcloud.com	
+qvrcenter.myqnapcloud.io	
 # ad block
 rtbc-ue1.doubleverify.com
 d2e2oszluhwxlw.cloudfront.net
