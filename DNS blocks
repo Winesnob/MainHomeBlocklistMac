@@ -1,0 +1,6 @@
+# DNS blocks
+||dns.google^
+||cloudflare-dns.com^
+||mozilla.cloudflare-dns.com^
+||dns.quad9.net^
+||nextdns.io^
