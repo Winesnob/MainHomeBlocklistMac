@@ -114,12 +114,12 @@ lgwebos.com
 js.hsforms.net
 
 # Angel Studios Core Domains ---
-||angel.com^
-||angelstudios.com^
+@@||angel.com^
+@@||angelstudios.com^
 # Essential Subdomains ---
-||watch.angelstudios.com^
-||shop.angelstudios.com^
-||help.angel.com^
+@@||watch.angelstudios.com^
+@@||shop.angelstudios.com^
+@@||help.angel.com^
 # Content & Video Delivery ---
-||cloudfront.net^$domain=angelstudios.com
-||braze.com^$domain=angelstudios.com
+@@||cloudfront.net^$domain=angelstudios.com
+@@||braze.com^$domain=angelstudios.com
