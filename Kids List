@@ -1,8 +1,34 @@
-deepai.org
-gemeni.google.com
-chatgpt.com
+# OpenAI / ChatGPT
+chat.openai.com
+api.openai.com
+openai.com
+
+# Google Gemini / Bard
+gemini.google.com
+bard.google.com
+generativelanguage.googleapis.com
+ai.google.dev
+
+# Anthropic Claude
 claude.ai
+api.anthropic.com
+
+# Microsoft Copilot / Bing AI
 copilot.microsoft.com
+bing.com/chat
+edgeservices.bing.com
+
+# Perplexity
+perplexity.ai
+
+# Meta AI
+ai.meta.com
+
+# Character AI
+character.ai
+
+# Poe (Quora AI hub)
+poe.com
 
 # Canva Main Website and App Access
 canva.com
@@ -41,3 +67,15 @@ api.nightcafe.studio
 
 # Analytics and Support
 analytics.nightcafe.studio
+
+||openai.com^
+||anthropic.com^
+||claude.ai^
+||perplexity.ai^
+||poe.com^
+||character.ai^
+||generativelanguage.googleapis.com^
+||ai\.google\.dev^
+||gemini.google.com^
+||copilot.microsoft.com^
+||edgeservices.bing.com^
