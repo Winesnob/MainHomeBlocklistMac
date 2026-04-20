@@ -125,3 +125,4 @@ js.hsforms.net
 # Content & Video Delivery ---
 @@||cloudfront.net^$domain=angelstudios.com
 @@||braze.com^$domain=angelstudios.com
+platform.linkedin.com
