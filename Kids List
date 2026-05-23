@@ -8,10 +8,17 @@ gemini.google.com
 bard.google.com
 generativelanguage.googleapis.com
 ai.google.dev
+appsgenaiserver-pa.googleapis.com
+appsgenaiserver-pa.clients6.google.com
 
 # Anthropic Claude
 claude.ai
 api.anthropic.com
+
+# AI Song Generator
+dns1.aisonggenerator.io
+cdn1.aisonggenerator.io
+# ||aisonggenerator.io^
 
 # Microsoft Copilot / Bing AI
 copilot.microsoft.com
@@ -90,3 +97,5 @@ auth.openai.com
 ||chatgpt.com^
 ||chat.com^
 ||openai.com^
+
+# YouTube
