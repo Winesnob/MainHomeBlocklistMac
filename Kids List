@@ -99,3 +99,9 @@ auth.openai.com
 ||openai.com^
 
 # YouTube
+||youtube.com^
+||youtube-nocookie.com^
+||googlevideo.com^
+
+# tangra
+||tangra.link^
