@@ -1,7 +1,17 @@
+# Proxy/VPN
 ||interstellar.network^
 ||rammerhead.org^
 ||ultraviolet.app^
 ||holyubofficial.net^
+
+# AI
+||figgs.ai^
+||moemate.io^
+||sakura.fm^
+||backyard.ai^
+||risuai.net^
+||risuai.xyz^
+||agnai.chat^
 
 # myQNAPcloud
 auth.myqnapcloud.io
@@ -37,8 +47,8 @@ ifttt.myqnapcloud.io
 dauth.myqnapcloud.io
 ifttt.api.myqnapcloud.cn
 dauth.api.myqnapcloud.cn
-machomeserver.myqnapcloud.com	
-qvrcenter.myqnapcloud.io	
+machomeserver.myqnapcloud.com
+qvrcenter.myqnapcloud.io
 # ad block
 rtbc-ue1.doubleverify.com
 d2e2oszluhwxlw.cloudfront.net
@@ -75,42 +85,7 @@ media.megaphonetv.com
 nexus.megaphonetv.com
 nexus-static.megaphonetv.com
 mega.page
-walkwithus.raiselysite.com
-||raiselysite.com^
-||outrightcrm.com^
-||candy.ai^
-||swipey.ai^
-top-nsfw-ai-chats-bots.pages.dev
-||girlfriendgpt.uk^
-||theresanaiforthat.com^
-||seeart.ai^
-||romanticai.com^
-||glambase.app^
-||startuphub.ai^
-||myanima.ai^
-||candyai.org^
-||magi1.ai^
-||secrets.ai^
-||dondi.ai^
-||replika.com^
-||dopple.ai^
-||doppleganger.ai^
-||moescape.ai^
-||linky.ai^
-||rprp.ai^
-||yodayo.com^
-||yodayo.ai^
-||figgs.ai^
-||moemate.io^
-||sakura.fm^
-||chai.ml^
-||chai-research.com^
-||characterhub.org^
-||backyard.ai^
-||risuai.net^
-||risuai.xyz^
-||agnai.chat^
-||koboldai.net^
+
 # AI Girlfriend / Boyfriend / Companion
 ||character.ai^
 ||beta.character.ai^
@@ -144,6 +119,31 @@ top-nsfw-ai-chats-bots.pages.dev
 ||forevervoices.com^
 ||voice.ai^
 ||beyondaiporn.com^
+walkwithus.raiselysite.com
+||raiselysite.com^
+||outrightcrm.com^
+||candy.ai^
+||swipey.ai^
+top-nsfw-ai-chats-bots.pages.dev
+||girlfriendgpt.uk^
+||theresanaiforthat.com^
+||seeart.ai^
+||glambase.app^
+||startuphub.ai^
+||magi1.ai^
+||secrets.ai^
+||dondi.ai^
+||replika.com^
+||moescape.ai^
+||linky.ai^
+||rprp.ai^
+||yodayo.com^
+||yodayo.ai^
+||chai.ml^
+||chai-research.com^
+||characterhub.org^
+||koboldai.net^
+||candyai.org^
 
 # AI Adult / NSFW Chat
 ||spicychat.ai^
@@ -152,7 +152,6 @@ top-nsfw-ai-chats-bots.pages.dev
 ||chatfai.ai^
 ||venuschat.ai^
 ||venusai.chat^
-||candy.ai^
 ||seduced.ai^
 ||promptchan.ai^
 ||pephop.ai^
@@ -172,8 +171,6 @@ top-nsfw-ai-chats-bots.pages.dev
 ||ineedthis.ai^
 ||joyfun.ai^
 ||pixai.art^
-||tensor.art^
-||mage.space^
 ||openart.ai^
 ||nightcafe.studio^
 
@@ -204,7 +201,6 @@ top-nsfw-ai-chats-bots.pages.dev
 # emerging AI-companion domains
 ||nectar.ai^
 ||ourdream.ai^
-||glambase.app^
 ||glambase.ai^
 ||gptgirlfriend.online^
 ||gptgirlfriend.com^
@@ -230,6 +226,7 @@ analytics.temu.com
 log.temu.com
 api.temu.com
 promoted.temu.com
+
 ||googlezip.net^
 accounts.goog
 wafsearch.wiki
