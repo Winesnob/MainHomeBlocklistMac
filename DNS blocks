@@ -211,6 +211,7 @@ doh.umbrella.com
 # NextDNS
 dns.nextdns.io
 nextdns.io
+nextdns.net
 
 # DNS0.eu
 dns0.eu
@@ -334,3 +335,6 @@ dot.ffmuc.net
 doh.dnswarden.com
 dot.dnswarden.com
 dns.dnswarden.com
+
+# FDN
+fdn.fr
