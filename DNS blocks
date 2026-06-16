@@ -58,6 +58,11 @@ jp-kix.doh.sb
 sg-sin.doh.sb
 us-nyc.doh.sb
 us-sfo.doh.sb
+www.dns.sb
+doh.dns.sb
+dot.dns.sb
+public.dns.sb
+||dns.sb^
 
 # DNSPod / Tencent
 doh.pub
@@ -115,6 +120,10 @@ kaitain.restena.lu
 doh.restena.lu
 dns.restena.lu
 resolver.restena.lu
+restena.lu
+www.restena.lu
+dns.restena.lu
+||resetena.lu^
 
 # IIJ / Internet Initiative Japan
 public.dns.iij.jp
