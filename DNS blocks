@@ -1,3 +1,10 @@
+# Pi-hole DNS bypass / encrypted DNS resolver blocklist
+# Purpose: prevent clients from resolving known DoH/DoT/DoQ resolver hostnames and bypassing local Pi-hole + Unbound.
+# Notes:
+# - This blocks resolver domains, not raw resolver IPs.
+# - Also block outbound TCP/UDP 53 except Pi-hole/Unbound, TCP 853, UDP 853, UDP 784, UDP 8853, and known resolver IPs at router/firewall.
+# - Avoid blocking broad provider roots like cloudflare.com, google.com, comcast.net, etc.
+
 # DNS blocks
 ||dns.google^
 ||cloudflare-dns.com^
@@ -9,3 +16,312 @@
 ||dns.adguard.com^
 ||dns.familyshield.opendns.com^
 one.one.one.one
+
+# AdGuard DNS
+dns.adguard-dns.com
+dns-unfiltered.adguard.com
+dns-family.adguard.com
+dns.adguard.com
+unfiltered.adguard-dns.com
+family.adguard-dns.com
+default.adguard-dns.com
+
+# AliDNS / Alibaba
+dns.alidns.com
+dns.pub
+
+# CleanBrowsing
+doh.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
+family-filter-dns.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+
+# Control D
+freedns.controld.com
+p0.freedns.controld.com
+p1.freedns.controld.com
+p2.freedns.controld.com
+p3.freedns.controld.com
+x-oisd.freedns.controld.com
+x-hagezi-pro.freedns.controld.com
+dns.controld.com
+
+# DNS.SB
+dns.sb
+doh.sb
+de-dus.doh.sb
+de-fra.doh.sb
+nl-ams.doh.sb
+uk-lon.doh.sb
+ee-tll.doh.sb
+jp-kix.doh.sb
+sg-sin.doh.sb
+us-nyc.doh.sb
+us-sfo.doh.sb
+
+# DNSPod / Tencent
+doh.pub
+dot.pub
+dns.pub
+dnspod.cn
+public.dnspod.cn
+
+# Mullvad DNS
+doh.mullvad.net
+dns.mullvad.net
+base.dns.mullvad.net
+extended.dns.mullvad.net
+adblock.dns.mullvad.net
+all.dns.mullvad.net
+family.dns.mullvad.net
+
+# OpenBLD
+ada.openbld.net
+ric.openbld.net
+plus.openbld.net
+openbld.net
+
+# DNS4EU
+dns4eu.net
+doh.dns4eu.net
+dot.dns4eu.net
+protective.joindns4.eu
+child-protective.joindns4.eu
+adblock.joindns4.eu
+unfiltered.joindns4.eu
+noads.joindns4.eu
+
+# 360 Secure DNS
+doh.360.cn
+dot.360.cn
+doh.pub.360.cn
+dot.pub.360.cn
+
+# CIRA Canadian Shield
+private.canadianshield.cira.ca
+protected.canadianshield.cira.ca
+family.canadianshield.cira.ca
+
+# Digitale Gesellschaft
+dns.digitale-gesellschaft.ch
+
+# DNS for Family
+dns-doh.dnsforfamily.com
+dns-dot.dnsforfamily.com
+dnsforfamily.com
+
+# Restena
+kaitain.restena.lu
+doh.restena.lu
+dns.restena.lu
+resolver.restena.lu
+
+# IIJ / Internet Initiative Japan
+public.dns.iij.jp
+public.dns.iij.jp.doh
+doh.dns.iij.jp
+dot.dns.iij.jp
+
+# LibreDNS
+doh.libredns.gr
+dot.libredns.gr
+libredns.gr
+
+# SWITCH Public DNS
+dns.switch.ch
+dns.switch.ch.doh
+dns.switch.ch.dot
+doh.switch.ch
+dot.switch.ch
+
+# Foundation for Applied Privacy
+doh.applied-privacy.net
+dot.applied-privacy.net
+applied-privacy.net
+
+# UncensoredDNS
+anycast.uncensoreddns.org
+unicast.uncensoreddns.org
+uncensoreddns.org
+
+# RethinkDNS
+rethinkdns.com
+sky.rethinkdns.com
+max.rethinkdns.com
+basic.rethinkdns.com
+
+# FlashStart
+dns.flashstart.com
+doh.flashstart.com
+dot.flashstart.com
+dns2.flashstart.com
+doh2.flashstart.com
+
+# Comcast / Xfinity secure DNS
+doh.xfinity.com
+dns.xfinity.com
+doh.comcast.net
+secure-dns.comcast.net
+
+# Google Public DNS
+dns.google
+dns.google.com
+google-public-dns-a.google.com
+google-public-dns-b.google.com
+
+# Cloudflare 1.1.1.1 / Families / Security
+cloudflare-dns.com
+dns.cloudflare.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
+one.one.one.one
+1dot1dot1dot1.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+
+# Quad9
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+dns13.quad9.net
+dns14.quad9.net
+dns15.quad9.net
+quad9.net
+
+# OpenDNS / Cisco Umbrella
+doh.opendns.com
+doh.familyshield.opendns.com
+dns.opendns.com
+familyshield.opendns.com
+resolver1.opendns.com
+resolver2.opendns.com
+umbrella.cisco.com
+doh.umbrella.com
+
+# NextDNS
+dns.nextdns.io
+nextdns.io
+
+# DNS0.eu
+dns0.eu
+zero.dns0.eu
+kids.dns0.eu
+open.dns0.eu
+
+# OpenNIC / related public endpoints
+doh.opennic.org
+dot.opennic.org
+opennic.org
+
+# AhaDNS / Blitz
+doh.in.ahadns.net
+doh.nl.ahadns.net
+doh.la.ahadns.net
+doh.no.ahadns.net
+dot.in.ahadns.net
+dot.nl.ahadns.net
+dot.la.ahadns.net
+dot.no.ahadns.net
+ahadns.com
+ahadns.net
+blitz.ahadns.com
+
+# BlahDNS
+doh-ch.blahdns.com
+doh-de.blahdns.com
+doh-fi.blahdns.com
+doh-jp.blahdns.com
+doh-sg.blahdns.com
+doh-au.blahdns.com
+dot-ch.blahdns.com
+dot-de.blahdns.com
+dot-fi.blahdns.com
+dot-jp.blahdns.com
+dot-sg.blahdns.com
+dot-au.blahdns.com
+blahdns.com
+
+# Njalla
+dns.njal.la
+doh.njal.la
+dot.njal.la
+
+# Wikimedia DNS
+wikimedia-dns.org
+wikidough.wikimedia.org
+
+# DNS.Watch
+resolver1.dns.watch
+resolver2.dns.watch
+dns.watch
+
+# Neustar / UltraDNS public
+dns.neustar
+doh.dns.neustar
+dot.dns.neustar
+
+# Alternate DNS
+dns.alternate-dns.com
+adguard.alternate-dns.com
+alternate-dns.com
+
+# Yandex DNS
+common.dot.dns.yandex.net
+safe.dot.dns.yandex.net
+family.dot.dns.yandex.net
+common.dns.yandex.net
+safe.dns.yandex.net
+family.dns.yandex.net
+
+# DeCloudUs
+dns.decloudus.com
+dns.decloudus.com.au
+dns.decloudus.sg
+
+# CZ.NIC ODVR
+odvr.nic.cz
+doh.nic.cz
+dot.nic.cz
+
+# CZ / Knot Resolver demos sometimes used as public encrypted DNS
+knot-resolver.cz
+
+# Tiarap
+doh.tiar.app
+jp.tiar.app
+sg.tiar.app
+
+# Rubyfish
+dns.rubyfish.cn
+
+# 114DNS / Chinese public DNS
+doh.114dns.com
+dot.114dns.com
+
+# SafeDNS
+doh.safedns.com
+dot.safedns.com
+safedns.com
+
+# Comodo Secure DNS
+doh.securedns.comodo.com
+dot.securedns.comodo.com
+securedns.comodo.com
+
+# Level3 / CenturyLink legacy resolver hostnames
+resolver1.level3.net
+resolver2.level3.net
+resolver3.level3.net
+resolver4.level3.net
+
+# Hurricane Electric public resolver hostnames
+ordns.he.net
+
+# Open Resolver Project examples that appear in DoH lists
+doh.applied-privacy.net
+doh.ffmuc.net
+dot.ffmuc.net
+doh.dnswarden.com
+dot.dnswarden.com
+dns.dnswarden.com
