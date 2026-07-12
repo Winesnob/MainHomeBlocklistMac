@@ -19,13 +19,13 @@
 ||pi.ai^
 
 # myQNAPcloud
+# connector.myqnapcloud.com -HBS3 uses to connect other cloud devices
 auth.myqnapcloud.io
 core2.myqnapcloud.io
 edge.myqnapcloud.io
 storage.myqnapcloud.io
 org.myqnapcloud.io
 analytics.myqnapcloud.io
-# connector.myqnapcloud.com -HBS3 uses to connect other cloud devices
 auth.api.myqnapcloud.cn
 core2.api.myqnapcloud.cn
 edge.api.myqnapcloud.cn
@@ -54,6 +54,7 @@ ifttt.api.myqnapcloud.cn
 dauth.api.myqnapcloud.cn
 machomeserver.myqnapcloud.com
 qvrcenter.myqnapcloud.io
+
 # ad block
 rtbc-ue1.doubleverify.com
 d2e2oszluhwxlw.cloudfront.net
@@ -158,6 +159,20 @@ top-nsfw-ai-chats-bots.pages.dev
 ||lovix.ai^
 ||justsext.com^
 ||wildowl.ai^
+||nectar.ai^
+||ourdream.ai^
+||glambase.ai^
+||gptgirlfriend.online^
+||gptgirlfriend.com^
+||herahaven.ai^
+||kupid.ai^
+||charstar.ai^
+||roleplai.app^
+||roleplai.ai^
+||talkie-ai.com^
+||talkie.ai^
+||polybuzz.ai^
+||poly.ai^
 
 # AI Adult / NSFW Chat
 ||spicychat.ai^
@@ -217,22 +232,6 @@ top-nsfw-ai-chats-bots.pages.dev
 ||tensor.art^
 ||seaart.ai^
 ||mage.space^
-
-# emerging AI-companion domains
-||nectar.ai^
-||ourdream.ai^
-||glambase.ai^
-||gptgirlfriend.online^
-||gptgirlfriend.com^
-||herahaven.ai^
-||kupid.ai^
-||charstar.ai^
-||roleplai.app^
-||roleplai.ai^
-||talkie-ai.com^
-||talkie.ai^
-||polybuzz.ai^
-||poly.ai^
 
 # Temu Main Shopping Domains
 temu.com
