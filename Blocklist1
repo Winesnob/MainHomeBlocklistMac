@@ -6,6 +6,10 @@
 ||darkness-site.github.io^
 ||addition.chillyparrotmath.cloudns.ch^
 ||overunder2.b-cdn.net^
+# Rammerhead proxy endpoints
+||rammerhead.us.to^
+||r.weeb-central.site^
+||rh.weeb-central.site^
 
 # AI
 ||figgs.ai^
@@ -17,6 +21,8 @@
 ||agnai.chat^
 ||novelai.net^
 ||pi.ai^
+# Dual-use deepfake / face-swap platform
+||deepswap.ai^
 
 # myQNAPcloud
 # connector.myqnapcloud.com -HBS3 uses to connect other cloud devices
@@ -173,6 +179,7 @@ top-nsfw-ai-chats-bots.pages.dev
 ||talkie.ai^
 ||polybuzz.ai^
 ||poly.ai^
+||sweetdram.ai^
 
 # AI Adult / NSFW Chat
 ||spicychat.ai^
@@ -225,6 +232,9 @@ top-nsfw-ai-chats-bots.pages.dev
 ||nudeai.fun^
 ||createhottie.com^
 ||vibenude.ai^
+||zencreator.pro^
+||clothoff.net^
+||clothoff.info^
 
 # AI Model Repositories / Image Generation Communities
 ||civitai.com^
