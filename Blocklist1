@@ -1,4 +1,4 @@
-# Proxy/VPN
+# Proxy/VPN/bypass pages
 ||interstellar.network^
 ||rammerhead.org^
 ||ultraviolet.app^
@@ -6,10 +6,16 @@
 ||darkness-site.github.io^
 ||addition.chillyparrotmath.cloudns.ch^
 ||overunder2.b-cdn.net^
-# Rammerhead proxy endpoints
 ||rammerhead.us.to^
 ||r.weeb-central.site^
 ||rh.weeb-central.site^
+||darkness-site.github.io^
+||addition.chillyparrotmath.cloudns.ch^
+||overunder2.b-cdn.net^
+||canlite.org^
+||tyroneunblockedgames.com^
+||browser.rammerhead.org^
+||rammerhead.org^
 
 # AI
 ||figgs.ai^
@@ -180,6 +186,8 @@ top-nsfw-ai-chats-bots.pages.dev
 ||polybuzz.ai^
 ||poly.ai^
 ||sweetdram.ai^
+||airi.moeru.ai^
+
 
 # AI Adult / NSFW Chat
 ||spicychat.ai^
