@@ -145,8 +145,6 @@ nicxe.github.io
 prod.p.unite529.com
 @@||navyfederal.org^
 unpkg.com
-paramountplus.com.data.adobedc.net
-saa.paramountplus.com
-cbsinteractive.data.adobedc.net
-cbs.hb-api.omtrdc.net
+# REQUIRED for Paramount+ to stream content with ads
+pubads.g.doubleclick.net
 
