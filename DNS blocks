@@ -21,7 +21,6 @@ one.one.one.one
 dns.adguard-dns.com
 dns-unfiltered.adguard.com
 dns-family.adguard.com
-dns.adguard.com
 unfiltered.adguard-dns.com
 family.adguard-dns.com
 default.adguard-dns.com
@@ -47,7 +46,6 @@ x-hagezi-pro.freedns.controld.com
 dns.controld.com
 
 # DNS.SB
-dns.sb
 doh.sb
 de-dus.doh.sb
 de-fra.doh.sb
@@ -67,7 +65,6 @@ public.dns.sb
 # DNSPod / Tencent
 doh.pub
 dot.pub
-dns.pub
 dnspod.cn
 public.dnspod.cn
 
@@ -120,10 +117,8 @@ kaitain.restena.lu
 doh.restena.lu
 dns.restena.lu
 resolver.restena.lu
-restena.lu
 www.restena.lu
-dns.restena.lu
-||resetena.lu^
+||restena.lu^
 
 # IIJ / Internet Initiative Japan
 public.dns.iij.jp
@@ -173,22 +168,16 @@ doh.comcast.net
 secure-dns.comcast.net
 
 # Google Public DNS
-dns.google
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 
 # Cloudflare 1.1.1.1 / Families / Security
-cloudflare-dns.com
 dns.cloudflare.com
-security.cloudflare-dns.com
 family.cloudflare-dns.com
-one.one.one.one
 1dot1dot1dot1.cloudflare-dns.com
-mozilla.cloudflare-dns.com
 
 # Quad9
-dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
@@ -199,7 +188,6 @@ dns15.quad9.net
 quad9.net
 
 # OpenDNS / Cisco Umbrella
-doh.opendns.com
 doh.familyshield.opendns.com
 dns.opendns.com
 familyshield.opendns.com
@@ -210,7 +198,6 @@ doh.umbrella.com
 
 # NextDNS
 dns.nextdns.io
-nextdns.io
 nextdns.net
 
 # DNS0.eu
@@ -329,7 +316,6 @@ resolver4.level3.net
 ordns.he.net
 
 # Open Resolver Project examples that appear in DoH lists
-doh.applied-privacy.net
 doh.ffmuc.net
 dot.ffmuc.net
 doh.dnswarden.com
