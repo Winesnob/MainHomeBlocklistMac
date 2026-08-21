@@ -1,70 +1,23 @@
-# OpenAI / ChatGPT
-chat.openai.com
-api.openai.com
-
 # Google Gemini / Bard
 bard.google.com
 appsgenaiserver-pa.googleapis.com
 appsgenaiserver-pa.clients6.google.com
 
 # Anthropic Claude
-api.anthropic.com
+||anthropic.com^
 
 # AI Song Generator
-dns1.aisonggenerator.io
-cdn1.aisonggenerator.io
-# ||aisonggenerator.io^
+||aisonggenerator.io^
 
 # Microsoft Copilot / Bing AI
 sydney.bing.com 
 
-# Perplexity
-
-# Meta AI
 ai.meta.com
-
-# Character AI
-
-# Poe (Quora AI hub)
-
-# Canva Main Website and App Access
-canva.com
-www.canva.com
-canvamobile.com
-
-# Content Management & User Uploads
-content-management-files.canva.com
-canva-user-content.com
-
-# Static Assets, Scripts, and UI Elements
-static.canva.com
-pwa.canva.com
+||canva.com^
 canvas-user-content.com
-
-# Editor APIs and Backend Services
-api.canva.com
-backend.canva.com
-realtime.canva.com
-
-# Canva Websites & Published Content
 my.canva.site
 canva.site
-
-# Tracking and Analytics
-analytics.canva.com
-
-# Nightcafe.studio Main Website and Info
-nightcafe.studio
-www.nightcafe.studio
-
-# The AI Creator App & Subdomains
-creator.nightcafe.studio
-images.nightcafe.studio
-api.nightcafe.studio
-
-# Analytics and Support
-analytics.nightcafe.studio
-
+||nightcafe.studio^
 ||openai.com^
 ||anthropic.com^
 ||claude.ai^
@@ -76,9 +29,6 @@ analytics.nightcafe.studio
 ||gemini.google.com^
 ||copilot.microsoft.com^
 ||edgeservices.bing.com^
-www.chatgpt.com
-www.openai.com
-auth.openai.com
 ||chatgpt.com^
 ||chat.com^
 
@@ -89,7 +39,6 @@ auth.openai.com
 i.google.com
 s.ytimg.com
 youtu.be
-youtube
 youtube.be
 youtube.co.uk
 youtube.de
