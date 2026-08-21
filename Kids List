@@ -98,6 +98,27 @@ auth.openai.com
 ||youtube.com^
 ||youtube-nocookie.com^
 ||googlevideo.com^
+googlevideo.com
+i.google.com
+s.ytimg.com
+youtu.be
+youtube
+youtube.be
+youtube.co.uk
+youtube.de
+youtube.fr
+youtube.googleapis.com
+youtube.l.google.com
+youtube.nl
+youtube.pl
+youtubeeducation.com
+youtubegaming.com
+youtubei.googleapis.com
+youtubekids.com
+yt.be
+yt3.ggpht.com
+ytimg.com
+ytimg.l.google.com
 
 # tangra
 ||tangra.link^
