@@ -3,12 +3,6 @@ bard.google.com
 appsgenaiserver-pa.googleapis.com
 appsgenaiserver-pa.clients6.google.com
 
-# Anthropic Claude
-||anthropic.com^
-
-# AI Song Generator
-||aisonggenerator.io^
-
 # Microsoft Copilot / Bing AI
 sydney.bing.com 
 
@@ -17,13 +11,12 @@ ai.meta.com
 canvas-user-content.com
 my.canva.site
 canva.site
-||nightcafe.studio^
 ||openai.com^
 ||anthropic.com^
 ||claude.ai^
 ||perplexity.ai^
 ||poe.com^
-||character.ai^
+||aisonggenerator.io^
 ||generativelanguage.googleapis.com^
 ||ai.google.dev^
 ||gemini.google.com^
@@ -31,30 +24,6 @@ canva.site
 ||edgeservices.bing.com^
 ||chatgpt.com^
 ||chat.com^
-
-# YouTube
-||youtube.com^
-||youtube-nocookie.com^
-||googlevideo.com^
-i.google.com
-s.ytimg.com
-youtu.be
-youtube.be
-youtube.co.uk
-youtube.de
-youtube.fr
-youtube.googleapis.com
-youtube.l.google.com
-youtube.nl
-youtube.pl
-youtubeeducation.com
-youtubegaming.com
-youtubei.googleapis.com
-youtubekids.com
-yt.be
-yt3.ggpht.com
-ytimg.com
-ytimg.l.google.com
 
 # tangra
 ||tangra.link^

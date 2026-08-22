@@ -10,7 +10,6 @@
 ||cloudflare-dns.com^
 ||mozilla.cloudflare-dns.com^
 ||dns.quad9.net^
-||nextdns.io^
 ||security.cloudflare-dns.com^
 ||doh.opendns.com^
 ||dns.adguard.com^
@@ -46,20 +45,7 @@ x-hagezi-pro.freedns.controld.com
 dns.controld.com
 
 # DNS.SB
-doh.sb
-de-dus.doh.sb
-de-fra.doh.sb
-nl-ams.doh.sb
-uk-lon.doh.sb
-ee-tll.doh.sb
-jp-kix.doh.sb
-sg-sin.doh.sb
-us-nyc.doh.sb
-us-sfo.doh.sb
-www.dns.sb
-doh.dns.sb
-dot.dns.sb
-public.dns.sb
+||doh.sb^
 ||dns.sb^
 
 # DNSPod / Tencent
@@ -113,11 +99,6 @@ dns-dot.dnsforfamily.com
 dnsforfamily.com
 
 # Restena
-kaitain.restena.lu
-doh.restena.lu
-dns.restena.lu
-resolver.restena.lu
-www.restena.lu
 ||restena.lu^
 
 # IIJ / Internet Initiative Japan
@@ -197,8 +178,8 @@ umbrella.cisco.com
 doh.umbrella.com
 
 # NextDNS
-dns.nextdns.io
 nextdns.net
+||nextdns.io^
 
 # DNS0.eu
 dns0.eu
