@@ -155,8 +155,6 @@ google-public-dns-b.google.com
 
 # Cloudflare 1.1.1.1 / Families / Security
 dns.cloudflare.com
-family.cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
 
 # Quad9
 dns9.quad9.net
