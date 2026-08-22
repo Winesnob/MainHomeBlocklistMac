@@ -1,5 +1,7 @@
-customer.homedepot.com
-survey.medallia.com
+
+# REQUIRED for Paramount+ to stream content with ads
+pubads.g.doubleclick.net
+
 # Pixel update servers #
 ota.googlezip.net
 ota-cache1.googlezip.net
@@ -7,6 +9,8 @@ ota-cache2.googlezip.net
 ota-cache3.googlezip.net
 
 # Functional links
+customer.homedepot.com
+survey.medallia.com
 api.countly.bmwusa.com
 www.googleadservices.com
 @@||strava.com^
@@ -134,7 +138,6 @@ js.hsforms.net
 # Content & Video Delivery ---
 platform.linkedin.com
 @@||lowes.sjv.io^
-www.ea.com
 tinyurl.com
 transunion.tt.omtrdc.net
 conta.cc
@@ -145,6 +148,5 @@ nicxe.github.io
 prod.p.unite529.com
 @@||navyfederal.org^
 unpkg.com
-# REQUIRED for Paramount+ to stream content with ads
-pubads.g.doubleclick.net
+
 
