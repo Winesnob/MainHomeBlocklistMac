@@ -1,0 +1,23 @@
+##This is a blocklist for Google Play
+# voledevice-pa.googleapis.com	
+# play-apps-features.googleusercontent.com	
+# lh3.googleusercontent.com
+
+# Main Storefront & Browsing
+play.google.com
+play-lh.googleusercontent.com
+
+# Downloads and Updates
+dl.google.com
+dl-ssl.google.com
+android.clients.google.com
+
+# Play Store APIs and Metadata
+play.googleapis.com
+android.googleapis.com
+googleusercontent.com
+ggpht.com
+
+# Analytics and Telemetry (Optional)
+google-analytics.com
+auditrecording-pa.googleapis.com
