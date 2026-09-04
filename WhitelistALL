@@ -2,6 +2,9 @@
 # REQUIRED for Paramount+ to stream content with ads
 pubads.g.doubleclick.net
 
+# REQUIRED for Peacock to stream content
+vi.freewheel.tv
+
 # Pixel update servers #
 ota.googlezip.net
 ota-cache1.googlezip.net
