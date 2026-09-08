@@ -1,15 +1,17 @@
-# LG TV 
-ngfts.lge.com
+
+# LG advertising
 us.ad.lgsmartad.com
 us.info.lgsmartad.com
 lgad.cjpowercast.com
 ad.lgappstv.com
+
+# Third-party advertising/tracking
 smartclip.com
 smartclip.net
-smartshare.lgtvsdp.com
-us.rdx2.lgtvsdp.com
-aic-ngfts.lge.com
 alphonso.tv
+||alphonso.tv^
+||smartclip.com^
+||smartclip.net^
 
 # Proxy/VPN/bypass pages
 ||interstellar.network^
