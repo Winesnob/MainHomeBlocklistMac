@@ -1,14 +1,25 @@
-
-# LG advertising
-us.ad.lgsmartad.com
-us.info.lgsmartad.com
-lgad.cjpowercast.com
-ad.lgappstv.com
-
-# Third-party advertising/tracking
+# LG advertising and ACR providers
+||lgsmartad.com^
 ||alphonso.tv^
 ||smartclip.com^
 ||smartclip.net^
+lgad.cjpowercast.com
+ad.lgappstv.com
+
+# LG telemetry, crash reporting and customer-data collection
+||rdx2.nextlgsdp.com^
+||rdl.lgtvcommon.com^
+||cdpbeacon.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+
+# Existing regional telemetry
+||us.rdx2.lgtvsdp.com^
+
+# LG AI/LLM services — retain only if these features are unwanted
+||ngfts.lge.com^
+||aic-ngfts.lge.com^
+||smartshare.lgtvsdp.com^
+
 
 # Proxy/VPN/bypass pages
 ||interstellar.network^
