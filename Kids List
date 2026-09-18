@@ -2,6 +2,8 @@
 bard.google.com
 appsgenaiserver-pa.googleapis.com
 appsgenaiserver-pa.clients6.google.com
+||appsgenaiserver-pa.googleapis.com^
+||appsgenaiserver-pa.clients6.google.com^
 
 # Microsoft Copilot / Bing AI
 sydney.bing.com 
