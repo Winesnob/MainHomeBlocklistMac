@@ -20,7 +20,6 @@ ad.lgappstv.com
 ||aic-ngfts.lge.com^
 ||smartshare.lgtvsdp.com^
 
-
 # Proxy/VPN/bypass pages
 ||interstellar.network^
 ||rammerhead.org^
@@ -338,12 +337,8 @@ a.nel.cloudflare.com
 ||teams.events.data.microsoft.com^
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
-||self.events.data.microsoft.com^
 ||browser.events.data.microsoft.com^
 ||sstats.adobe.com^
 ||observability.target.com^
 ||otlp-http-production.shopifysvc.com^
 
-# known to cause Android wakelocks when blocked
-# ||mobile.events.data.microsoft.com^
-# ||browser.pipe.aria.microsoft.com^
