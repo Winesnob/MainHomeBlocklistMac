@@ -104,7 +104,6 @@ bidder.doceree.com
 79.141.163.179
 111.90.146.237
 config.playwire.com
-adssettings.google.com
 valnet.sentinelpro.com
 d1voyiv1eh2vzr.cloudfront.net
 mediation.goog
@@ -114,7 +113,6 @@ vg-aws-ad-mof-sdk-us-east-1a.mtgglobals.com
 analytics-tcp.mtgglobals.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 hb.mtgglobals.com
-google-ohttp-relay-safebrowsing.fastly-edge.com
 api.dollphoin.site
 campaigns.dsp.youappi.com
 creatives.dsp.youappi.com
@@ -166,8 +164,6 @@ cds.connatix.com
 ||forevervoices.com^
 ||voice.ai^
 ||beyondaiporn.com^
-||raiselysite.com^
-||outrightcrm.com^
 ||candy.ai^
 ||swipey.ai^
 top-nsfw-ai-chats-bots.pages.dev
@@ -328,7 +324,6 @@ log.temu.com
 api.temu.com
 promoted.temu.com
 
-||googlezip.net^
 accounts.goog
 wafsearch.wiki
 a.nel.cloudflare.com
