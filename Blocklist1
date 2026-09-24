@@ -329,10 +329,8 @@ wafsearch.wiki
 a.nel.cloudflare.com
 ||stalpo.com^
 
-||teams.events.data.microsoft.com^
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
-||browser.events.data.microsoft.com^
 ||sstats.adobe.com^
 ||observability.target.com^
 ||otlp-http-production.shopifysvc.com^
