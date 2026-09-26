@@ -1,7 +1,6 @@
 music.youtube.com
 
 # Whitelist candidates based on Android wakelocks
-# @@||logx.optimizely.com^
 # @@||federatedcompute-pa.googleapis.com^
 
 # Reduce wakelocks
@@ -19,6 +18,8 @@ logx.optimizely.com
 @@||browser.pipe.aria.microsoft.com^
 @@||self.events.data.microsoft.com^
 @@||mobile.pipe.aria.microsoft.com^
+@@||unagi.amazon.com^
+@@||unagi-na.amazon.com^
 
 # REQUIRED for Paramount+ to stream content with ads
 pubads.g.doubleclick.net
@@ -137,3 +138,4 @@ rs-stripe.vox.com
 drfdisvc.walmart.com
 goto.walmart.com
 data.eml.wegmans.com
+telemetry.docusign.net
