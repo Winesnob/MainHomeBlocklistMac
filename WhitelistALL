@@ -29,6 +29,10 @@ pubads.g.doubleclick.net
 # REQUIRED for Peacock to stream content
 vi.freewheel.tv
 
+# Steam Game Servers
+@@||steampowered.com^
+steamcommunity.com
+
 # Pixel update servers #
 ota.googlezip.net
 ota-cache1.googlezip.net
