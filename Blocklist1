@@ -12,9 +12,6 @@ ad.lgappstv.com
 ||cdpbeacon.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
 
-# Existing regional telemetry
-||us.rdx2.lgtvsdp.com^
-
 # LG AI/LLM services — retain only if these features are unwanted
 ||ngfts.lge.com^
 ||aic-ngfts.lge.com^
@@ -134,6 +131,7 @@ cds.connatix.com
 ||disconetwork.com^
 ||dancefloor.dev^
 ||usync.smartadhi.com^
+||lottiefiles.com^
 
 # AI Girlfriend / Boyfriend / Companion
 ||character.ai^
@@ -232,6 +230,13 @@ top-nsfw-ai-chats-bots.pages.dev
 ||ivena.ai^
 ||honeypot.com^
 ||undressly.xme.bio^
+||amoraai.live^
+||funfun.ai^
+||heygf.ai^
+||aiangels.io^
+||sweetbun.ai^
+||rpdate.com^
+||polybuzz.ai^
 
 # AI Adult / NSFW Chat
 ||spicychat.ai^
