@@ -15,6 +15,7 @@
 ||dns.adguard.com^
 ||dns.familyshield.opendns.com^
 one.one.one.one
+||dns.boundarylogiclabs.com^
 
 # AdGuard DNS
 dns.adguard-dns.com
