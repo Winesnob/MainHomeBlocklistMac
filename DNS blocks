@@ -55,15 +55,6 @@ dot.pub
 dnspod.cn
 public.dnspod.cn
 
-# Mullvad DNS
-doh.mullvad.net
-dns.mullvad.net
-base.dns.mullvad.net
-extended.dns.mullvad.net
-adblock.dns.mullvad.net
-all.dns.mullvad.net
-family.dns.mullvad.net
-
 # OpenBLD
 ada.openbld.net
 ric.openbld.net
@@ -205,18 +196,18 @@ ahadns.net
 blitz.ahadns.com
 
 # BlahDNS
-doh-ch.blahdns.com
-doh-de.blahdns.com
-doh-fi.blahdns.com
-doh-jp.blahdns.com
-doh-sg.blahdns.com
-doh-au.blahdns.com
-dot-ch.blahdns.com
-dot-de.blahdns.com
-dot-fi.blahdns.com
-dot-jp.blahdns.com
-dot-sg.blahdns.com
-dot-au.blahdns.com
+||doh-ch.blahdns.com^
+||doh-de.blahdns.com^
+||doh-fi.blahdns.com^
+||doh-jp.blahdns.com^
+||doh-sg.blahdns.com^
+||doh-au.blahdns.com^
+||dot-ch.blahdns.com^
+||dot-de.blahdns.com^
+||dot-fi.blahdns.com^
+||dot-jp.blahdns.com^
+||dot-sg.blahdns.com^
+||dot-au.blahdns.com^
 blahdns.com
 
 # Njalla
